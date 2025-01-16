@@ -1,6 +1,6 @@
 ChatGPT Clone
 
-![UI](https://github.com/user-attachments/assets/e026e88c-04cb-49b0-9f93-01520429be58)
+![UI](https://github.com/user-attachments/assets/dc9a9e4f-390c-4bd5-a5fe-613ec0c5e753)
 
 # Getting Started with Create React App
 

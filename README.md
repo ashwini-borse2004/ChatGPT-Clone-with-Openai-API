@@ -1,4 +1,4 @@
-ChatGPT Clone
+ChatGPT Clone Using Openai API
 
 ![UI](https://github.com/user-attachments/assets/dc9a9e4f-390c-4bd5-a5fe-613ec0c5e753)
 

@@ -1,3 +1,7 @@
+ChatGPT Clone
+
+![UI](https://github.com/user-attachments/assets/e026e88c-04cb-49b0-9f93-01520429be58)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
